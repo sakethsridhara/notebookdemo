@@ -1,66 +1,11 @@
 name: testBinder
 channels:
   - conda-forge
-  - pytorch
-  - soumith
-  - defaults
 dependencies:
-  - pip
-  - pygments
-  - debugpy
-  - setuptools
-  - vs2015_runtime
-  - pickleshare
-  - comm
-  - jupyter_client
-  - importlib-metadata
-  - wcwidth
-  - zeromq
-  - parso
-  - tornado
-  - pywin32
-  - openssl
-  - six
-  - libsodium
-  - asttokens
-  - ca-certificates
-  - traitlets
-  - jupyter_core
-  - libsqlite
-  - nest-asyncio
-  - importlib_metadata
-  - libffi
-  - pure_eval
-  - decorator
-  - pyzmq
-  - libzlib
-  - typing_extensions
-  - jedi
-  - tk
-  - matplotlib-inline
-  - tzdata
-  - python-dateutil
   - python=3.11
-  - wheel
-  - vc
-  - vc14_runtime
-  - zipp
-  - libexpat
-  - xz
-  - bzip2
-  - exceptiongroup
-  - python_abi
-  - psutil
-  - prompt-toolkit
-  - stack_data
-  - ucrt
-  - packaging
-  - ipython
-  - executing
-  - platformdirs
-  - colorama
   - ipykernel
   - matplotlib
-  - conda-forge::voila
+  - numpy
+  - voila
   - ipywidgets
 prefix: C:\Users\saket\.conda\envs\testBinder
