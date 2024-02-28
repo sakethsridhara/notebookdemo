@@ -40,7 +40,7 @@ dependencies:
   - matplotlib-inline
   - tzdata
   - python-dateutil
-  - python=3.12
+  - python=3.11
   - wheel
   - vc
   - vc14_runtime
